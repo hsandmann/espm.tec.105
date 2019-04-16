@@ -38,6 +38,34 @@ A fim de simular um processador moderno de forma didática, o ESPM 16bits aprese
 
 Como na arquitetura de von Neumann esse computador é composto por memória e CPU.
 
+A CPU possui registradores, são eles:
+
+| Registrador | Descrição |
+| --- | --- |
+| AC  | Acumulador, registrador mais importante, onde as operações são executadas |
+| IC  | Contador de instrução, é a posição do cabeçalho na fita, ou seja, do processador em relação a memória |
+
+Já a ALU (ULA em português) possuí 16 instruções, sendo elas:
+
+| Opcode | Mnemônico | Descrição | 	
+| --- | --- | --- |
+| 0      | JMP       | Desvio incondicional |
+| 1      | JZ        | Desvio se acumulador for zero |
+| 2      | JNZ       | Desvio se acumulador não for zero |
+| 3      | LV        | Deposita uma constante no acumulador |
+| 4      | ADD       | Soma |
+| 5      | SUB       | Subtração |
+| 6      | MUL       | Multiplicação |
+| 7      | DIV       | Divisão |
+| 8      | LOAD      | Carrega da memória no acumulador |
+| 9      | STOR      | Grava do acumulador na memória |
+| A      | SC        | Desvio de subprograma (função) |
+| B      | RS        | Retorno de subprograma (função) |
+| C      | END       | Fim de programa |
+| D      | IN        | Entrada |
+| E      | OUT       | Saída |
+| F      | NOP       | Ciclo de processamento nulo |
+
 A simulação está disponível em:
 [ESPM 16bits](/espm.16bits)
 
