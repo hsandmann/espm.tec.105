@@ -19,6 +19,8 @@ O funcionamento da máquina se resume ao algoritmo de:
  
 Ao analisar o resumo do algoritmo, é possível levantar a questão da parada da máquina, um problema tratado no artigo de Turing.
 
+Confira uma animação da máquina de Turing em: [https://youtu.be/gJQTFhkhwPA](https://youtu.be/gJQTFhkhwPA)
+
 ## Arquitetura von Neumann
 
 Baseando na teoria da máquina de Turing, o físico e matemático [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) desenvolveu uma arquitetura que era capaz de executar tal tarefa: arquitetura de Von Neumann ou arquitetura de Princeton.
