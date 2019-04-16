@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-Material de apoio à disciplina TEC-105, ministrada na ESPM - Escola Superior de Propaganda e Marketing.
-
-
-
-
+# Ambiente de Produção
 
 ## Máquina de Turing
 
