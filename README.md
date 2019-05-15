@@ -69,6 +69,8 @@ Já a ALU (ULA em português) possuí 16 instruções, sendo elas:
 A simulação está disponível em:
 [ESPM 16bits](/espm.16bits)
 
+## Resumos
+1. ["Resumo SO"](/assets/pdf/ESPM-ResumoSO.pdf)
 
 ## Referências
 
