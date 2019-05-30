@@ -69,11 +69,31 @@ Já a ALU (ULA em português) possuí 16 instruções, sendo elas:
 A simulação está disponível em:
 [ESPM 16bits](/espm.16bits)
 
-## Resumos
-1. ["Resumo SO"](/assets/pdf/ESPM-ResumoSO.pdf)
+## Sistemas Operacionais (SO)
+1. [Resumo SO](/assets/pdf/ESPM-ResumoSO.pdf)
+
+### Memória
+
+### Arquivos
+
+### Processos
+
+### Dispositivos
+
+### Usuários
+
+#### Ubuntu
+
+##### Criar usuário
+
+``
+$ sudo adduser <username>
+``
+
+
+
 
 ## Referências
 
 1. Turing, A. M. (1936). ["On Computable Numbers, with an Application to the Entscheidungsproblem"](/assets/pdf/Turing_1936.pdf)
-
 2. Gödel, K. (1931). ["Über formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme, I"](/assets/pdf/Godel_1931.pdf)
