@@ -23,7 +23,7 @@ Confira uma animação da máquina de Turing em: [https://youtu.be/gJQTFhkhwPA](
 
 ## Arquitetura von Neumann
 
-Baseando na teoria da máquina de Turing, o físico e matemático [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) desenvolveu uma arquitetura que era capaz de executar tal tarefa: arquitetura de Von Neumann ou arquitetura de Princeton.
+Baseando na teoria da máquina de Turing, o físico e matemático [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) desenvolveu uma arquitetura que era capaz de executar tal tarefa: arquitetura de Von Neumann ou arquitetura de Princeton, 1945 ([wiki](https://en.wikipedia.org/wiki/Von_Neumann_architecture)).
 
 ![von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Von_Neumann_Architecture.svg/2880px-Von_Neumann_Architecture.svg.png)
 *![Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)*
